@@ -12,13 +12,19 @@
 
 
 ​Built With
+
 ​Python
+
 ​MySQL
+
 ​Power BI
 
 ​Prerequisites
+
 ​Python 3.x
+
 ​MySQL Server
+
 ​Power BI Desktop
 
 Dashboard
