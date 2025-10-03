@@ -29,7 +29,11 @@
 
 Dashboard
 ​The Power BI dashboard consists of multiple pages, each focusing on a different aspect of the analysis:
+
 ​Homepage: A summary page providing an overview of the key metrics and navigation to other sections of the dashboard.
+
 ​Loan Analysis: A detailed analysis of the bank's loan portfolio, including breakdowns by various customer demographics and characteristics.
+
 ​Deposit Analysis: An in-depth look at the bank's deposits, with visualizations showing trends and patterns in customer deposits.
+
 ​Summary: A consolidated view of the most important findings and key performance indicators (KPIs).
